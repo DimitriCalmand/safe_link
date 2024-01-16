@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "matrix.h": "c",
+        "stdio.h": "c",
+        "embedding.h": "c",
+        "time.h": "c",
+        "string.h": "c",
+        "transpose.h": "c",
+        "multiplication.h": "c",
+        "math_utils.h": "c",
+        "sum.h": "c",
+        "slicing.h": "c",
+        "immintrin.h": "c",
+        "waiter": "cpp",
+        "softmax.h": "c",
+        "mse.h": "c",
+        "optimizer.h": "c",
+        "prepare_dataset.h": "c",
+        "saver.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
