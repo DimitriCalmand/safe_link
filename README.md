@@ -1,7 +1,5 @@
 # Safe_Link
 
-![alt text](https://gitlab.com/dipezed/safe_link/-/raw/main/gui/safelink_logo_README.png "Logo of Safe_Link")
-
 Safe_Link is a student project for spam detection in GMAIL emails, written in C. It uses the Google API to interact with your GMAIL account and scans the links in emails to identify and filter out spam.
 
 ## Features
